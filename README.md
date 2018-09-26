@@ -10,5 +10,6 @@ language that we are going to use in this project are:
 
 
 this project are divided into different part:
--student
+
+- student
 - admin
