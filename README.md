@@ -7,3 +7,8 @@ language that we are going to use in this project are:
 * jquery
 * boostrap 3
 * javascript
+
+
+this project are divided into different part:
+-student
+- admin
