@@ -9,7 +9,20 @@ language that we are going to use in this project are:
 * javascript
 
 
-this project are divided into different part:
+this project are divided into modules:
 
 - student
 - admin
+
+
+          student
+  - student registration
+  - student login
+  - student portal
+  
+  
+         admin
+  - admin login
+  - manage student registration
+  - pin generator & form ID
+
