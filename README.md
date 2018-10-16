@@ -11,6 +11,6 @@ language that we are going to use in this project are:
 
 this project are divided into modules:
 
-- student
-- admin
-- addmission
+- student modules
+- admin modules
+- addmission modules
